@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "68538c780a787acac7e408da",
+    "id": "A0369/25",
+    "entity": "MR",
+    "status": "HA",
+    "Qcode": "MRHA",
+    "Area": "AGA",
+    "SubArea": "Movement and landing area",
+    "Condition": "Hazard Conditions",
+    "Subject": "Runway",
+    "Modifier": "Braking action",
+    "message": "ALL PILOTS TO EXER CTN WHILE LDG RWY 17/35 DRG WET SFC\nCONDITIONS\nCREATED: 04 Jun 2025 17:32:00 \nSOURCE: LSSNYNYX",
+    "startdate": "2025-05-28T05:10:00.000Z",
+    "enddate": "2025-08-25T05:09:00.000Z",
+    "all": "A0369/25 NOTAMN\nQ) OPLR/QMRHA/IV/BO/AE/000/999/3400N07131E005\nA) OPPS\nB) 2505280510 C) 2508250509\nE) ALL PILOTS TO EXER CTN WHILE LDG RWY 17/35 DRG WET SFC\nCONDITIONS\nCREATED: 04 Jun 2025 17:32:00 \nSOURCE: LSSNYNYX",
+    "location": "OPPS",
+    "isICAO": true,
+    "Created": "2025-06-04T17:32:00.000Z",
+    "key": "A0369/25-OPPS",
+    "type": "airport",
+    "quality": {
+      "fmt_01": 1,
+      "len_01": 1,
+      "dur_01": 1,
+      "dur_03": 1,
+      "qcd_02": 1,
+      "qcd_03": 1,
+      "prp_01": 1,
+      "prp_02": 1,
+      "prp_03": 1,
+      "jar_01": 0,
+      "jars": [
+        "CTN",
+        "DRG",
+        "EXER"
+      ],
+      "score": 90
+    },
+    "StateCode": "PAK",
+    "StateName": "Pakistan"
+  }
+]
